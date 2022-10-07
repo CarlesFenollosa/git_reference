@@ -9,4 +9,9 @@ gdsagads
 ## mi rama
 
 rama 1
-esto es el comit 1 de mi rama<>
+esto es el comit 1 de mi rama
+
+comit 2
+
+
+## nestor capitan mamayema
