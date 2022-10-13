@@ -23,3 +23,8 @@ Lo podemos utilizar, para cambiar entre ramas y poder crearlas si no existen. Co
 Git tag
 ```
 Sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable.
+
+```
+Git bisect
+```
+Es un algoritmo de búsqueda sencillo de utilizar que nos permite escanear historiales de código bastante largos en un tiempo razonablemente breve y además no es invasivo.
