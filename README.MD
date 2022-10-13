@@ -12,3 +12,9 @@ Comando de la plataforma de Git enfocado en integrar modificaciones de una rama 
 Git cherry-pick
 ```
 Es un potente comando que permite que las confirmaciones arbitrarias de Git se elijan por referencia y se añadan al actual HEAD de trabajo
+
+
+```
+Git switch
+```
+Lo podemos utilizar, para cambiar entre ramas y poder crearlas si no existen. Con el argumento -c (crear) git creará la nueva rama y cambiará a ella.
