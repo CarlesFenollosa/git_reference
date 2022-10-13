@@ -11,3 +11,7 @@ rama 1
 esto es el comit 1 de mi rama
 
 comit 2
+
+## comando 3
+
+este es el comando 3
