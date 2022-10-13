@@ -18,3 +18,8 @@ Es un potente comando que permite que las confirmaciones arbitrarias de Git se e
 Git switch
 ```
 Lo podemos utilizar, para cambiar entre ramas y poder crearlas si no existen. Con el argumento -c (crear) git creará la nueva rama y cambiará a ella.
+
+```
+Git tag
+```
+Sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable.
