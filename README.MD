@@ -1,19 +1,5 @@
-# Git Reference
-Bienvenidos a la guia git
+```
+ Git Merge
+```
+La fusión es la forma que tiene Git de volver a unir un historial bifurcado. El comando git merge permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama. Ten en cuenta que todos los comandos presentados a continuación se fusionan en la rama actual.
 
-## comando git push
-
-gdsagads
-
-## mi rama
-
-rama 1
-esto es el comit 1 de mi rama
-
-comit 2
-
-## comando 3
-
-este es el comando 3
-
-## comando 4
