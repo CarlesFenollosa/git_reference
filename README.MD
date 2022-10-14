@@ -1,6 +1,9 @@
-# Git Reference
-Bienvenidos a la guia git
-
+# Tutorial de Git
+Bienvenidos a nuestra guia git.
+```
+Git Reference
+```
+Es un archivo que contiene un hash SHA-1 de una confirmación de Git. Al hacer referencia a una confirmación de Git, puede usar la referencia de Git, que es un nombre fácil de recordar, en lugar del hash.
 ```
 git config (user.name, user.email)
 ```
